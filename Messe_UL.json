@@ -258,12 +258,22 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1hDU-HBY9lSiAEEI2cfjzkFP8NFpZb3j-\/view?usp=sharing"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/1tsP20vBjDP1TeZAyQPhTnINhG92iS7121fnIZqrwNrM\/edit?usp=sharing"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccken sie die LEERTASTE um die Karte zu \u00f6ffnen.\nPress SPACE to open the map."
                 }],
          "type":"tilelayer",
          "visible":true,
