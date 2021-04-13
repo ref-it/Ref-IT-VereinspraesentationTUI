@@ -150,7 +150,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/iswi-office\/map.json"
+                 "value":"..\/..\/maps.world.fem-net.de\/iswi-office\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
