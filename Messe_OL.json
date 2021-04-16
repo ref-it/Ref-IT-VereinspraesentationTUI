@@ -294,7 +294,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/erstiwoche.de\/veranstaltungen\/vereinspraesentation-digital\/uebersichtskarte"
+                 "value":"https:\/\/raw.githubusercontent.com\/Ref-IT\/Ref-IT-VereinspraesentationTUI\/master\/%C3%9Cbersichtskarte.png"
                 }, 
                 {
                  "name":"openWebsitePolicy",
