@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":42,
  "infinite":false,
  "layers":[
@@ -301,12 +294,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/erstiwoche.de\/veranstaltungen\/vereinspraesentation-digital\/uebersichtskarte"
+                 "value":"https:\/\/github.com\/Ref-IT\/Ref-IT-VereinspraesentationTUI\/\u00dcbersichtskarte.png"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen; autoplay"
+                 "value":"fullscreen"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -435,7 +428,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1455,6 +1448,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":42
 }
