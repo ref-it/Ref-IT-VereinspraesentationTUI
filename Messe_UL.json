@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":42,
  "infinite":false,
  "layers":[
@@ -473,7 +466,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -982,9 +975,22 @@
          "tilecount":80,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":6,
+         "firstgid":1157,
+         "image":"tiles\/Logos_UL.png",
+         "imageheight":320,
+         "imagewidth":192,
+         "margin":0,
+         "name":"Logos_UL",
+         "spacing":0,
+         "tilecount":60,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":42
 }
