@@ -16,7 +16,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -34,7 +34,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
                  "value":"Messe_OL.json#Eingang_Loch"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -142,7 +142,7 @@
                  "value":"Messe_OR.json#Eingang_UR"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -160,7 +160,7 @@
                  "value":"Messe_UL.json#Eingang_UR"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -178,7 +178,7 @@
                  "value":"..\/..\/maps.world.fem-net.de\/iswi-office\/map.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -196,7 +196,7 @@
                  "value":"..\/..\/s2sly.github.io\/BFZelt\/map.json#start"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -214,7 +214,7 @@
                  "value":"Vereinspr\u00e4si_Stand_20"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -232,7 +232,7 @@
                  "value":"Vereinspr\u00e4si_Stand_21"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -250,7 +250,7 @@
                  "value":"Vereinspr\u00e4si_Stand_22"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -268,7 +268,7 @@
                  "value":"Vereinspr\u00e4si_Stand_23"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -286,7 +286,7 @@
                  "value":"Vereinspr\u00e4si_Stand_24"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -304,7 +304,7 @@
                  "value":"Vereinspr\u00e4si_Stand_25"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -355,7 +355,7 @@
                  "value":"Dr\u00fccken sie die LEERTASTE um die Karte zu \u00f6ffnen.\nPress SPACE to open the map."
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -383,7 +383,7 @@
                  "value":"Dr\u00fccken sie die LEERTASTE um die Website zu \u00f6ffnen.\nPress SPACE to open the website."
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -395,7 +395,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -407,7 +407,7 @@
          "name":"Logos",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -431,7 +431,7 @@
          "name":"Ausg\u00e4nge",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -443,7 +443,7 @@
          "name":"Teppich",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -455,7 +455,7 @@
          "name":"Tische\/Sofas",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -467,7 +467,7 @@
          "name":"Tischdeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -479,7 +479,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -490,7 +490,7 @@
          "name":"Aufsteller",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
