@@ -1511,6 +1511,30 @@
                  "animation":[
                         {
                          "duration":250,
+                         "tileid":21
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":23
+                        }],
+                 "id":21
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":250,
+                         "tileid":22
+                        }, 
+                        {
+                         "duration":250,
+                         "tileid":24
+                        }],
+                 "id":22
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":250,
                          "tileid":32
                         }, 
                         {
