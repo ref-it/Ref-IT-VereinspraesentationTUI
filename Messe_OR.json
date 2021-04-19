@@ -261,11 +261,6 @@
                  "value":"https:\/\/maps.world.fem-net.de\/events\/vp2021s\/Ref-IT-VereinspraesentationTUI\/%C3%9Cbersichtskarte.png"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen; autoplay"
-                }, 
-                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
