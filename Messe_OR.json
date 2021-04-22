@@ -6888,6 +6888,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"Whiteboard_miniKarte",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
