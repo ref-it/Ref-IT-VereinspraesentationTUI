@@ -344,6 +344,12 @@
          "id":39,
          "name":"Jitsi_Stand_26",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Vereinspr\u00e4si_Stand_26"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":42,
